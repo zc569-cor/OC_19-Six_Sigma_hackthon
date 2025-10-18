@@ -24,3 +24,6 @@ explnation of the output interface
 
 Feature of our dashboard:
 Our dashboard also can export a csv file containg all the above collumns.
+<img width="2044" height="860" alt="image" src="https://github.com/user-attachments/assets/cfbacc72-17b4-4b4f-b8c4-f920db70c17a" />
+
+
